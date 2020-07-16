@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6615f1a6-1159-4c26-8f07-be19b2e3d810" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Urm88jma8e7Q6LVEmoCNXm7ulE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tempreture" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6615f1a6-1159-4c26-8f07-be19b2e3d810" name="Default Changelist" comment="" />
+      <created>1576122925930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576122925930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="297" key="FileChooserDialogImpl" timestamp="1576199705621">
+      <screen x="71" y="24" width="1849" height="1056" />
+    </state>
+    <state x="724" y="297" key="FileChooserDialogImpl/71.24.1849.1056@71.24.1849.1056" timestamp="1576199705621" />
+    <state x="604" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1576253230551">
+      <screen x="71" y="24" width="1849" height="1056" />
+    </state>
+    <state x="604" y="367" key="com.intellij.ide.util.TipDialog/71.24.1849.1056@71.24.1849.1056" timestamp="1576253230551" />
+  </component>
+</project>
